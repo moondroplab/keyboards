@@ -2,6 +2,7 @@
     "name": "Moondrop Dash75",
     "vendorId": "0x6dd4",
     "productId": "0x7501",
+    "firmwareVersion": 1,
     "matrix": {"rows": 6, "cols": 15},
     "layouts": {
         "keymap":[
